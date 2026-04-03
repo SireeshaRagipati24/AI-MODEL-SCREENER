@@ -79,4 +79,4 @@ python app.py
 ## 👩‍💻 Built By
 
 **Sireesha Ragipati** — Associate Data Scientist  
-[LinkedIn](https://linkedin.com) • [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/sireesha-ragipati-269a10244/) • [GitHub](https://github.com/SireeshaRagipati24)
